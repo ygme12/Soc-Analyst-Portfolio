@@ -61,13 +61,13 @@ The document presented a significant security risk because Excel 4.0 macros are 
 
 ## Indicators of Compromise
 
-| IOC Type        | Value                               |
-| --------------- | ---------------------------         |
-| Sender Email    | trenton@tritowncomputers.com        |
-| Attachment Name |11f44531fb088d31307d87b01e8eabff.zip |
-| File Hash       | 11f44531fb088d31307d87b01e8eabff    |
-| Domain          | Document from investigation         |
-| IP Address      | 222.227.81.181                      |
+| IOC Type        | Value                                                           |
+| --------------- | ---------------------------                                     |
+| Sender Email    | trenton@tritowncomputers.com                                    |
+| Attachment Name |11f44531fb088d31307d87b01e8eabff.zip                             |
+| File Hash       |d05014be92f45cc92ac01b42acc21c9889f30778b823e259ac3b6df17daf37c9 |
+| Domain          | Document from investigation                                     |
+| IP Address      | 222.227.81.181                                                  |
 
 ## MITRE ATT&CK Mapping
 
